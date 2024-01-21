@@ -1,4 +1,4 @@
-# project-1
+# project-1(ROCK PAPER SCISSOR)
 // C program for the above approach
 #include <math.h>
 #include <stdio.h>
